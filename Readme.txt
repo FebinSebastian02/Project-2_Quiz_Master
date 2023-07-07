@@ -7,4 +7,4 @@ Steps done:-
 4) If else conditions were used to rank the user depending upon his score
 
 
-Status of the project:- Complete
+Status of the project:- Completed

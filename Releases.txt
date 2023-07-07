@@ -1,0 +1,6 @@
+v1.0.0
+
+1) A simple Quiz program was created with
+	a) 2 functions - i) main() ii) questions() 
+	b) Dictionary for the collection of 5 questions 
+	c) if else conditions to rank the user
